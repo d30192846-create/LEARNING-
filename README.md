@@ -7,17 +7,15 @@
 ### 51 单片机
 
 - [51-MCU/](51-MCU/)：学习记录与实验说明。
-- [EDA嘉立创/](EDA嘉立创/)：嘉立创 EDA 工程归档及导出文件。
-- [ProPrj_51单片机核心板_2025-11-10-23-27-29.epro](ProPrj_51单片机核心板_2025-11-10-23-27-29.epro)：核心板工程。
-- [ProPrj_test1_2025-10-25-16-26-01.epro](ProPrj_test1_2025-10-25-16-26-01.epro)：测试工程。
-- [SCH_51单片机核心板原理图_2025-10-27.pdf](SCH_51单片机核心板原理图_2025-10-27.pdf)：原理图 PDF。
-- [Gerber_51单片机核心板PCB_2026-06-22.zip](Gerber_51单片机核心板PCB_2026-06-22.zip)：PCB Gerber 制造文件。
+- [51-MCU/eda/](51-MCU/eda/)：嘉立创 EDA 工程及导出文件。
+- [51-MCU/docs/](51-MCU/docs/)：原理图和其他说明文档。
+- [51-MCU/manufacturing/](51-MCU/manufacturing/)：PCB Gerber 制造文件。
 
 ## 使用说明
 
-1. EPRO 文件可使用嘉立创 EDA 打开。
-2. Gerber 压缩包用于 PCB 制造前检查或下单，请在生产前确认版本和日期。
-3. PDF 适合快速查阅；实际修改请以对应 EDA 工程为准。
+1. EPRO 文件位于 [51-MCU/eda/](51-MCU/eda/)，可使用嘉立创 EDA 打开。
+2. Gerber 压缩包位于 [51-MCU/manufacturing/](51-MCU/manufacturing/)，用于 PCB 制造前检查或下单。
+3. 原理图 PDF 位于 [51-MCU/docs/](51-MCU/docs/)；实际修改请以对应 EDA 工程为准。
 
 ## 整理约定
 
