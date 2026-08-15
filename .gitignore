@@ -1,0 +1,23 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editors and IDEs
+.idea/
+.vscode/
+*.code-workspace
+
+# Temporary and backup files
+*.bak
+*.tmp
+*.temp
+*.autosave
+*.swp
+*~
+*.log
+
+# EDA generated backups and caches
+**/Backup/
+**/History/
+**/ProjectOutputs/
