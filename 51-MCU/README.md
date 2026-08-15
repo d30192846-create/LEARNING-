@@ -4,10 +4,9 @@
 
 ## 相关资料
 
-- 仓库根目录的 EPRO 文件：嘉立创 EDA 工程。
-- 仓库根目录的原理图 PDF：快速查看电路设计。
-- 仓库根目录的 Gerber 压缩包：PCB 制造文件。
-- [../EDA嘉立创/](../EDA嘉立创/)：EDA 工程归档及导出文件。
+- [eda/](eda/)：嘉立创 EDA 工程及导出文件。
+- [docs/](docs/)：原理图和其他说明文档。
+- [manufacturing/](manufacturing/)：PCB Gerber 制造文件。
 
 ## 建议记录格式
 
